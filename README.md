@@ -1,1 +1,2 @@
+barfoo
 make a conflict
